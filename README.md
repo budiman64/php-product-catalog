@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-You can view the live project deployed on a PHP-supported host here: **[your-live-demo-link.rf.gd]**
+You can view the live project deployed on a PHP-supported host here: **[https://budi-php-product-catalog.infinityfreeapp.com/]**
 
 _(Remember to replace the link above with your actual live URL.)_
 
