@@ -1,0 +1,56 @@
+/* Re-used styles from Project 1 */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif;
+  background-color: #f4f4f9;
+  color: #333;
+  margin: 0;
+}
+header {
+  text-align: center;
+  padding: 20px;
+}
+.product-card {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  width: 300px;
+}
+.product-card img {
+  width: 100%;
+  display: block;
+}
+.product-info {
+  padding: 20px;
+  text-align: center;
+}
+.product-info .price {
+  font-size: 1.5em;
+  color: #e74c3c;
+  margin: 10px 0;
+}
+.add-to-cart-btn {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 12px 25px;
+  font-size: 1em;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 100%;
+  margin-top: 15px;
+}
+.add-to-cart-btn:hover {
+  background-color: #2980b9;
+}
+
+/* New style for the grid layout */
+.product-grid {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  padding: 20px;
+}
